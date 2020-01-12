@@ -1,4 +1,4 @@
-# FirstWebsite
+# first-website
 First website using HTML, CSS, JS
 
 The .zip file will contain all the css, js and html sheets, including image folders.
